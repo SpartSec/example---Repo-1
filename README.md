@@ -1,4 +1,4 @@
 # Example Repository
 This is a sample repo.
 
-New change.
+Git is distributed version control system.
