@@ -29,3 +29,9 @@ To push the release to master:
     git checkout master
     git merge release / 0.1.0
 
+Common Commands:
+    Initialize a repo: 
+        Git init 
+
+    Check the current status:
+        Git status
