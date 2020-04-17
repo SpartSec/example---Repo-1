@@ -35,3 +35,9 @@ Common Commands:
 
     Check the current status:
         Git status
+
+    Commit the changes to someFile.fileExtension to the local version:
+        Git commit someFile.fileExtension -m "Add notes for you commit."
+
+    Push the changes to the master branch:
+        Git push origin master
